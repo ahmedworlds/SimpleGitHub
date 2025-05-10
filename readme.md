@@ -1,4 +1,3 @@
-SimpleGit 2 
-Github
-Local
-
+0 SimpleGit
+1 Github
+2 Local
